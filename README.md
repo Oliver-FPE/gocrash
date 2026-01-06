@@ -1,6 +1,5 @@
 # gocrash
 crashes your system. Make sure to check your ram, cpu and storage
-# how to used
   ## Usage
 1. Ensure you have the Go programming language installed on your system.
 2. Clone this repository or download the `main.go` file.
